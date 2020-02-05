@@ -1,0 +1,10 @@
+"""
+Constants for style transfer
+"""
+
+TOTAL_VARIATION_WEIGHT = 30
+EPSILON = 1e-1
+BETA_1 = 0.99
+LEARNING_RATE = 0.02
+CONTENT_WEIGHT = 1e4
+STYLE_WEIGHT = 1e-2
