@@ -16,12 +16,6 @@ sunset_info = (
 # sunset_path = fetch_file(*sunset_info)
 sunset_path = 'C:\\Users\\trevo\\Pictures\\projects\\project_valentine\\sunset.jpg'
 sunset_image = load_image_as_tensor(sunset_path)
-# femfam_info = (
-#         'us.jpg',
-#         'https://lh3.googleusercontent.com/NIsLjDOqxmRHoGEiqdnlKcvgnjKgENW5C3DemDOImSm4GMqp_tVSWiUO6Sem90MSoOwjcxTBd3PHTSXr6wa4InMsp8FE2YtYwfDUr6VCW72bp5eqOrEq8wL5WGDxmJM5wTx50i7cOZqFhDmz8QZRyh1WpRTIHCKJC24zO6ptdgLePZ3B9y4ZJmRz-jNX8TNAw-x8lhZKO7mbCMKcDFbko9oWimm3bE6P32JDT68QUqVyQI6RUClni5p9uaVanmY_XJPObS-2IV-4E_4zTobZE4ZIlf44MgCkr3WIWXTr_3eMYnVNybegbbTGEIa3_ageCGMeS7ONjAk9RJ-gb2VSYeNlveBHC9q4-zogWdyPcEcGlCZA_XTyqozgGudINGZ4GZimXkXaB9eabGGW2W6shrzjqECrLGCOF7ONRGki7fo9GYoyMUTD5QI-9VmdcxwyGPyyL2k7iM_qevtaHNSmFkTRt59NWhfXzqwOpD3iPZrdJibJQUAGcleqT81wTnOk7cTMrFv04s6gYigcUr0f3IOvLX5sUNjdiPYKuC8LIPM3ECt4YMFsqraOz1jG3TshPLOKPTYt2i47lqJIGkOhw8kgjdKmpvOYqhidjoXC9ulSfhLhfief9PGKS8s_bh5vOmENJrECaYAHqBpoLfe8UhY0GNsYus2ZC3qEw6qrXtyvOiEB-rDWAw=w958-h539-no'
-# )
-# femfam_path = fetch_file(*femfam_info)
-# femfam_image = load_image_as_tensor(femfam_path)
 
 # Style examples
 simpsons_info = (
