@@ -45,7 +45,7 @@ def image_show(image, title=None):
     Shows an image with pyplot or with image.show() if image is an instance of
     PIL.Image
 
-    :param image: (Tensor) A Tensor representation of an image
+    :param image: (Tensor | Image) A Tensor representation of an image
     :param title: (String) A title to display on the plot
     """
 
