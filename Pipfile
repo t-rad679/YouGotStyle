@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pillow = "*"
+pillow = ">=7.1.0"
 numpy = "*"
 matplotlib = "*"
 tensorflow-gpu = "*"
